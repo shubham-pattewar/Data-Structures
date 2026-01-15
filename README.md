@@ -21,8 +21,7 @@ To understand and implement core data structures and traversal algorithms.
 
 ## 🛠 Tools
 
-* Language: C / C++ / Java
-* IDE: VS Code / CodeBlocks / Turbo C
+* Language: C / C++
 
 ## 👨‍🎓 Author
 
